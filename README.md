@@ -54,3 +54,19 @@ You can view the live version here (GitHub Pages):
 
 ## 📂 Folder Structure
 
+Leon-agency/
+├── css/
+│   └── style.css
+├── images/
+│   └── (project images)
+├── webfonts/
+│   └── (font files for Font Awesome)
+├── index.html
+└── README.md
+
+📬 Contact
+
+Twitter(X) : [@samuadda](https://x.com/samuadda)
+
+LinkedIn: [Saddiq Musa](https://www.linkedin.com/in/saddiq-daut/)
+
