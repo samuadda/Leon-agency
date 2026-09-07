@@ -1,3 +1,5 @@
+> **Project type: Learning / practice.** This repository documents an earlier stage of my development journey and is kept as a learning reference and portfolio exercise.
+
 # Leon Agency – HTML & CSS Practice Project
 
 This is a simple front-end practice project built using **HTML**, **CSS**, and **Font Awesome**, following the instructions and tutorials of **Osama Elzero** on YouTube.
